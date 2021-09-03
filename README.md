@@ -1,1 +1,1 @@
-# Alumni-Portal
+# AlumniPortal
